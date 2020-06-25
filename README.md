@@ -1,2 +1,2 @@
 # Leetcode
-Contains all the codes of the Leetcode learning and challenges
+Contains all the codes of the Leetcode Explore learning.
