@@ -1,2 +1,2 @@
 # Leetcode
-Contains all the codes of the Leetcode Explore learning.
+Contains all the non-premium codes of the Leetcode Explore learning.
