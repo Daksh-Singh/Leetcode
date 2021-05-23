@@ -1,1 +1,1 @@
-This folder contains basic interview and practice question offered by Leetcode in the explore to learn more about Recursion, under the name Recursion I. It taught about basic complexities and some practice question with the help of recursion like Memoization and Tail recursion.
+This folder contains basic interview and practice question offered by Leetcode in the explore to learn more about Recursion, under the name Recursion I. It taught about basic complexities and some practice question with the help of recursion like Memoization, Tail recursion and some common questions.
