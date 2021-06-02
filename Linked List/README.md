@@ -1,1 +1,1 @@
-This folder contains basic interview and practice question offered by Leetcode in the explore to learn more about Linked List, under the same name only. It starts with the basic implementation of singly and doubly Linked List and traditional questions.
+This folder contains basic interview and practice question offered by Leetcode in the explore to learn more about Linked List, under the same name only. It starts with the basic implementation of singly and doubly Linked List and then they taught about basic traditional questions of Linked list.
